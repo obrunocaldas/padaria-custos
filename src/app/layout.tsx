@@ -18,7 +18,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <img src="https://drive.google.com/file/d/1hsPP090_UivJ3sYQChi8EF5AXNPXcu7K/view?usp=share_link" alt="Logo" className="w-10 h-10" />
             <div>
               <h1 className="font-semibold text-stone-900 leading-tight">Gestão de Custos</h1>
-              <p className="text-xs text-stone-500">Padaria Artesanal</p>
+              <p className="text-xs text-stone-500"> </p>
             </div>
           </div>
         </header>
