@@ -14,8 +14,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="pt-BR">
       <body className={inter.className}>
         <header className="border-b border-stone-200 bg-blue-600">
-          <div className="max-w-4xl mx-auto px-4 py-4 flex items-center gap-3">
-            <img src="https://i.imgur.com/MzXpUoH.png" alt="Logo" className="w-20 h-10" />
+          <div className="max-w-4xl mx-auto px-4 py-1 flex items-center gap-3">
+            <img src="https://i.imgur.com/MzXpUoH.png" alt="Logo" className="w-20 h-20" />
             <div>
               <h1 className="font-semibold text-stone-900 leading-tight">Gestão de Custos</h1>
               <p className="text-xs text-stone-500"> </p>
